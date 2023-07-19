@@ -1,0 +1,18 @@
+C:\Users\Supraja Konchada\source\repos\Shopping Cart System\Shopping Cart System\bin\Debug\net6.0\Shopping Cart System.exe
+C:\Users\Supraja Konchada\source\repos\Shopping Cart System\Shopping Cart System\bin\Debug\net6.0\Shopping Cart System.deps.json
+C:\Users\Supraja Konchada\source\repos\Shopping Cart System\Shopping Cart System\bin\Debug\net6.0\Shopping Cart System.runtimeconfig.json
+C:\Users\Supraja Konchada\source\repos\Shopping Cart System\Shopping Cart System\bin\Debug\net6.0\Shopping Cart System.dll
+C:\Users\Supraja Konchada\source\repos\Shopping Cart System\Shopping Cart System\bin\Debug\net6.0\Shopping Cart System.pdb
+C:\Users\Supraja Konchada\source\repos\Shopping Cart System\Shopping Cart System\bin\Debug\net6.0\Cart Operations.dll
+C:\Users\Supraja Konchada\source\repos\Shopping Cart System\Shopping Cart System\bin\Debug\net6.0\Cart Operations.pdb
+C:\Users\Supraja Konchada\source\repos\Shopping Cart System\Shopping Cart System\obj\Debug\net6.0\Shopping Cart System.csproj.AssemblyReference.cache
+C:\Users\Supraja Konchada\source\repos\Shopping Cart System\Shopping Cart System\obj\Debug\net6.0\Shopping Cart System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supraja Konchada\source\repos\Shopping Cart System\Shopping Cart System\obj\Debug\net6.0\Shopping Cart System.AssemblyInfoInputs.cache
+C:\Users\Supraja Konchada\source\repos\Shopping Cart System\Shopping Cart System\obj\Debug\net6.0\Shopping Cart System.AssemblyInfo.cs
+C:\Users\Supraja Konchada\source\repos\Shopping Cart System\Shopping Cart System\obj\Debug\net6.0\Shopping Cart System.csproj.CoreCompileInputs.cache
+C:\Users\Supraja Konchada\source\repos\Shopping Cart System\Shopping Cart System\obj\Debug\net6.0\Shopping Cart System.csproj.CopyComplete
+C:\Users\Supraja Konchada\source\repos\Shopping Cart System\Shopping Cart System\obj\Debug\net6.0\Shopping Cart System.dll
+C:\Users\Supraja Konchada\source\repos\Shopping Cart System\Shopping Cart System\obj\Debug\net6.0\refint\Shopping Cart System.dll
+C:\Users\Supraja Konchada\source\repos\Shopping Cart System\Shopping Cart System\obj\Debug\net6.0\Shopping Cart System.pdb
+C:\Users\Supraja Konchada\source\repos\Shopping Cart System\Shopping Cart System\obj\Debug\net6.0\Shopping Cart System.genruntimeconfig.cache
+C:\Users\Supraja Konchada\source\repos\Shopping Cart System\Shopping Cart System\obj\Debug\net6.0\ref\Shopping Cart System.dll

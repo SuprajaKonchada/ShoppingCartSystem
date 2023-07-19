@@ -1,0 +1,12 @@
+C:\Users\Supraja Konchada\source\repos\Shopping Cart System\Cart Operations\bin\Debug\net6.0\Cart Operations.deps.json
+C:\Users\Supraja Konchada\source\repos\Shopping Cart System\Cart Operations\bin\Debug\net6.0\Cart Operations.dll
+C:\Users\Supraja Konchada\source\repos\Shopping Cart System\Cart Operations\bin\Debug\net6.0\Cart Operations.pdb
+C:\Users\Supraja Konchada\source\repos\Shopping Cart System\Cart Operations\obj\Debug\net6.0\Cart Operations.csproj.AssemblyReference.cache
+C:\Users\Supraja Konchada\source\repos\Shopping Cart System\Cart Operations\obj\Debug\net6.0\Cart Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supraja Konchada\source\repos\Shopping Cart System\Cart Operations\obj\Debug\net6.0\Cart Operations.AssemblyInfoInputs.cache
+C:\Users\Supraja Konchada\source\repos\Shopping Cart System\Cart Operations\obj\Debug\net6.0\Cart Operations.AssemblyInfo.cs
+C:\Users\Supraja Konchada\source\repos\Shopping Cart System\Cart Operations\obj\Debug\net6.0\Cart Operations.csproj.CoreCompileInputs.cache
+C:\Users\Supraja Konchada\source\repos\Shopping Cart System\Cart Operations\obj\Debug\net6.0\Cart Operations.dll
+C:\Users\Supraja Konchada\source\repos\Shopping Cart System\Cart Operations\obj\Debug\net6.0\refint\Cart Operations.dll
+C:\Users\Supraja Konchada\source\repos\Shopping Cart System\Cart Operations\obj\Debug\net6.0\Cart Operations.pdb
+C:\Users\Supraja Konchada\source\repos\Shopping Cart System\Cart Operations\obj\Debug\net6.0\ref\Cart Operations.dll

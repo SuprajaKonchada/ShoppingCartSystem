@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Shopping Cart System/1.0.0": {
+        "runtime": {
+          "Shopping Cart System.dll": {}
+        }
+      },
+      "Cart Operations/1.0.0": {
+        "runtime": {
+          "Cart Operations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shopping Cart System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cart Operations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
